@@ -4,7 +4,7 @@ import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import com.servicios.CarritoDeSaludosBeanRemote;
 import com.servicios.SaludoBeanRemote;
-
+//asdasdasdas
 public class ClienteSaludo {
 
 	public static void main(String[] args) throws NamingException{
